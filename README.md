@@ -37,6 +37,20 @@ Correlation values were improved with these changes.
 
 ## Predictions
 
+RMSE values were obtained with its own training:
+
+* **Random forest**: 57288.29736536037 
+* **ExtraTreeRegressor**: 54998.40405193934
+* **LinearRegression**: 55869.57667978832
+* **Lasso**: 55866.50186298033
+* **Ridge**: 55786.59417475289
+* **ElasticNet**: 60719.37461777011
+* **SVR**: 74151.47731646513
+* **LGBMRegressor**: 56461.887229577005
+* **XGBR**: 60513.10436434398
+* **CTR**: 59449.57853642741
+* **GBR**: 56630.53859375318
+
 
 
 
