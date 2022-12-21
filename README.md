@@ -8,6 +8,8 @@
 
 The goal of the competition is to obtain the lowest RMSE from machine learning predictions of a data jobs.
 
+[Kaggle](https://www.kaggle.com/competitions/predecir-salario-data)
+
 
 ## Competition bases
 
@@ -52,8 +54,8 @@ RMSE values were obtained with its own training:
 * **GBR**: 56630.53859375318
 
 
+## Final result
 
-
-
+🥉 **Third ranking position from my class!**
 
 
